@@ -58,6 +58,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(String result) {
             txtResponse.setText(result);  // put it on TextView
+
+            // Bapak siapa di sini
+            // Coba lagi ya
         }
     }
 }
